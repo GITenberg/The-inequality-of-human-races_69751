@@ -15,12 +15,17 @@ contributor:
     agent_name: Collins, Adrian
     gutenberg_agent_id: '39324'
     url: http://www.gutenberg.org/2009/agents/39324
+covers:
+- cover_type: archival
+  image_path: 69751-h/images/cover.jpg
 creator:
   author:
     agent_name: Gobineau, Arthur de
     gutenberg_agent_id: '55401'
     url: http://www.gutenberg.org/2009/agents/55401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69751#The-inequality-of-human-races
 gutenberg_issued: '2023-01-09'
 identifiers:
   gutenberg: '69751'
